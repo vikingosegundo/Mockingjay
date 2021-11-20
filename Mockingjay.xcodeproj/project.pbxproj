@@ -126,6 +126,7 @@
 		2746CDB51A702F7800719B66 = {
 			isa = PBXGroup;
 			children = (
+				C9CC34B32749547F006F2DCF /* Package.swift */,
 				2715FABD1D8C818C00A89DF7 /* URITemplate.xcodeproj */,
 				2746CDDB1A702FC100719B66 /* Configurations */,
 				2746CDC11A702F7800719B66 /* Mockingjay */,
@@ -148,7 +149,6 @@
 		2746CDC11A702F7800719B66 /* Mockingjay */ = {
 			isa = PBXGroup;
 			children = (
-				C9CC34B32749547F006F2DCF /* Package.swift */,
 				2746CDC41A702F7800719B66 /* Mockingjay.h */,
 				274367911AA27A7C0030C97B /* Mockingjay.swift */,
 				274367971AA28AFC0030C97B /* Matchers.swift */,
