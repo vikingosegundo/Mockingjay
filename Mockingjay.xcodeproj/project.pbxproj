@@ -88,6 +88,7 @@
 		27703A621CE2560600194732 /* MockingjayURLSessionConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MockingjayURLSessionConfiguration.m; sourceTree = "<group>"; };
 		444EA6081C5261DE000C3A9F /* MockingjayAsyncProtocolTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockingjayAsyncProtocolTests.swift; sourceTree = "<group>"; };
 		444EA60B1C52666D000C3A9F /* TestAudio.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = TestAudio.m4a; sourceTree = "<group>"; };
+		C9CC34B32749547F006F2DCF /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +125,7 @@
 		2746CDB51A702F7800719B66 = {
 			isa = PBXGroup;
 			children = (
+				C9CC34B32749547F006F2DCF /* Package.swift */,
 				2715FABD1D8C818C00A89DF7 /* URITemplate.xcodeproj */,
 				2746CDDB1A702FC100719B66 /* Configurations */,
 				2746CDC11A702F7800719B66 /* Mockingjay */,
